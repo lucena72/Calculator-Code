@@ -1,2 +1,0 @@
-# Calculator-Code
-A simple and responsive calculator built with HTML, CSS, and JavaScript, featuring basic mathematical operations and a clean, modern interface.
